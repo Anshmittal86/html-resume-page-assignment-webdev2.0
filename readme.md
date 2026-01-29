@@ -17,7 +17,12 @@ The resume includes sections like:
 
 The focus of this assignment is correct HTML structure, readability, accessibility, and semantic markup.
 
----
+## Screenshots
+
+### Resume Screenshot
+
+![Part 1](screenshot/resume-part-1.png)
+![Part 2](screenshot/resume-part-2.png)
 
 ## Usage
 
@@ -25,3 +30,7 @@ The focus of this assignment is correct HTML structure, readability, accessibili
    ```bash
    git clone <your-repository-link>
    ```
+
+## Links
+
+Live Here:
